@@ -1,0 +1,16 @@
+# image folders
+test_images/
+downloaded_images/
+
+# all jpeg images
+*.jpeg
+*.jpg
+*.png
+
+*.npy
+
+AutogluonModels/
+
+# all csv except in raw_data
+*.csv
+!raw_data/*.csv
